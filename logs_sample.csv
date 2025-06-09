@@ -1,0 +1,8 @@
+log_text,label
+"Conveyor belt stalled in zone 3",Mechanical
+"Sensor malfunction on pallet scanner",Electrical
+"Software update failed overnight",Software
+"Motor overheating warning",Mechanical
+"No barcode detected",Sensor
+"PLC timeout on line 2",Software
+"Loose wiring found during inspection",Electrical
